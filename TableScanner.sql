@@ -1,6 +1,3 @@
---use gbi_resource
---go
-
 declare @cursor as cursor
 declare @table_name varchar(1000)
 declare @column_name varchar(1000)
